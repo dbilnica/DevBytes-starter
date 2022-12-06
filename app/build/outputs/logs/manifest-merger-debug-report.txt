@@ -13,6 +13,7 @@ MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\bilnica\.gradle\caches
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\75b97c93a48616b0afc34a17e24d2f40\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\288e76eafe20f33ecdda8631e6f3581b\jetified-core-ktx-1.3.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\7ce8d0a2e18afbb4de0a5cd96a599b4b\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\a11ecc9e2da9e70de4bb737d7bf3b6cf\navigation-fragment-ktx-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\99bc818ec13a2f03a66aa3ad7795b90f\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\bb4c01b0edabfd979899aac833fb2a26\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
@@ -49,6 +50,8 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\bilnica\.gradl
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\89ca6eed67e3bf3903c6d3b7f48c0280\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\c8fa3af2cf76d9f279555072f4dceeba\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\587a988ab69514dc92fcc4fc4a16a9a1\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\f9112946a4c2f5513f450dde1ff872a8\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\b367eac59413437f450804150a280662\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\0bee434f08ec8d443d2732c88469d042\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\9b0fa95b0e0ba4ab067a5c6482f5f9fd\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\ac3c2c9c68ccdc1eaea219142bec6772\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
@@ -89,6 +92,8 @@ MERGED from [com.google.android.material:material:1.0.0] C:\Users\bilnica\.gradl
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\15a6797aef6513377b4f00d6273a3b5d\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\7ce8d0a2e18afbb4de0a5cd96a599b4b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\7ce8d0a2e18afbb4de0a5cd96a599b4b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\bb4c01b0edabfd979899aac833fb2a26\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\bb4c01b0edabfd979899aac833fb2a26\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\5f287a63651bc0c3ceb2e6c8f0032b8a\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
@@ -157,6 +162,8 @@ MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\bilnica\.gradle\caches\trans
 MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\288e76eafe20f33ecdda8631e6f3581b\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\7ce8d0a2e18afbb4de0a5cd96a599b4b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\7ce8d0a2e18afbb4de0a5cd96a599b4b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\a11ecc9e2da9e70de4bb737d7bf3b6cf\navigation-fragment-ktx-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\a11ecc9e2da9e70de4bb737d7bf3b6cf\navigation-fragment-ktx-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\99bc818ec13a2f03a66aa3ad7795b90f\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
@@ -229,6 +236,10 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bilnica\.gradl
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\c8fa3af2cf76d9f279555072f4dceeba\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\587a988ab69514dc92fcc4fc4a16a9a1\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\587a988ab69514dc92fcc4fc4a16a9a1\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\f9112946a4c2f5513f450dde1ff872a8\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\f9112946a4c2f5513f450dde1ff872a8\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\b367eac59413437f450804150a280662\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\b367eac59413437f450804150a280662\sqlite-2.0.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\0bee434f08ec8d443d2732c88469d042\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\0bee434f08ec8d443d2732c88469d042\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\9b0fa95b0e0ba4ab067a5c6482f5f9fd\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
@@ -261,6 +272,12 @@ INJECTED from C:\Users\bilnica\AndroidStudioProjects\DevBytes-starter\app\src\ma
 		INJECTED from C:\Users\bilnica\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\bilnica\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\bilnica\AndroidStudioProjects\DevBytes-starter\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha06] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\1997c0c7dadc05e4d218839f13e6ea5c\room-runtime-2.1.0-alpha06\AndroidManifest.xml:24:13-74
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\bilnica\.gradle\caches\transforms-2\files-2.1\fbf646b3ac46620e2668c79e73c5afde\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
 	android:authorities
